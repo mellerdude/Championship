@@ -1,4 +1,4 @@
-package id208375204_id204761761;
+package main;
 
 import Controller.Controller;
 import Model.Model;
